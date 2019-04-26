@@ -14,7 +14,7 @@ Forever free. Written in Python.
 [![PyPI version](https://badge.fury.io/py/instabot.svg)](https://badge.fury.io/py/instabot)
 [![Build Status](https://travis-ci.org/instagrambot/instabot.svg?branch=master)](https://travis-ci.org/instagrambot/instabot)
 [![codecov](https://codecov.io/gh/instagrambot/instabot/branch/master/graph/badge.svg)](https://codecov.io/gh/instagrambot/instabot)
-[![@_M_S_O_ , 0.60 ,](https://codecov.io/gh/instagrambot/instabot/branch/master/graph/badge.svg)](https://codecov.io/gh/instagrambot/instabot)]
+[![@_M_S_O_ , 0.60 ,] (https://codecov.io/gh/instagrambot/instabot/branch/master/graph/badge.svg)](https://codecov.io/gh/instagrambot/instabot)
 ### Installation                  
 Install `@_M_S_O_` with:
 ```
