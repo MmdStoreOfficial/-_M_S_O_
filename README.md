@@ -1,4 +1,4 @@
-# _@__M_S_O_
+# @_M_S_O_
 # _HACKING AND VIRUSING WITH MSO SERVER ONLINE ON KALI LINUX 
 
 Instagram promotion and SMM scripts.
