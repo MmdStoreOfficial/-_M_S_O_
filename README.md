@@ -1,5 +1,5 @@
 # @_M_S_O_
-# HACKING AND HOSTING ROOTED HOST 
+# HACKING AND VIRUSING WITH MSO SERVER ONLINE ON KALI LINUX 
 
 Instagram promotion and SMM scripts.
 Forever free. Written in Python.
