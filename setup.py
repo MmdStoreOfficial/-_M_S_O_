@@ -9,14 +9,14 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='instabot',
+    name='@_M_S_O_',
     version='0.30.0',
 
     description='Instagram bot scripts for promotion and API python wrapper.',
     long_description=long_description,
 
-    author='Daniil Okhlopkov, Evgeny Kemerov',
-    author_email='danokhlopkov@gmail.com, eskemerov@gmail.com',
+    author='JOE KHALIL, MSO',
+    author_email='MMDSTOREOFFICIAL@GMAIL.COM, eskemerov@gmail.com',
     license='Apache Software License 2.0',
 
     url='https://github.com/instagrambot/instabot',
