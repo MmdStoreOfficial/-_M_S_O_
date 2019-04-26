@@ -16,7 +16,7 @@ setup(
     long_description=long_description,
 
     author='JOE KHALIL, MSO',
-    author_email='MMDSTOREOFFICIAL@GMAIL.COM, eskemerov@gmail.com',
+    author_email='MMDSTOREOFFICIAL@GMAIL.COM, khaliljoe04@gmail.',
     license='Apache Software License 2.0',
 
     url='https://github.com/instagrambot/instabot',
